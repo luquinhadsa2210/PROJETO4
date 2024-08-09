@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(1000, 800);
+  createCanvas(400, 400);
 }
 
 function draw() {
@@ -24,7 +24,7 @@ function draw() {
   //let palavra = "Ca";
   // text(palavra,200,200);
   //}else{
-  //let palavra = "Caminhante";
+  //let palavra = "chocolate";
   // text (palavra,200,200);
   //}
 
